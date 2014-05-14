@@ -7,7 +7,7 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Welcome</h1>
+        <h1>Welcome to Yoga Studio</h1>
         <p>Please <a href="login">login</a>
     </body>
 </html>
